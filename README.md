@@ -1,6 +1,9 @@
 # 📊 Crowe Inc. Financial Performance Visualized - PowerBI
 
 ## 🔗 Live Dashboard
+
+<img src="https://github.com/user-attachments/assets/038b1f57-e811-4c43-870f-e1a33b5f7ce4" width="350">
+
 **[View the Interactive Power BI Report here](https://app.powerbi.com/view?r=eyJrIjoiODZhOGUyZGQtNDhkOS00YWQzLWIxNzgtMzRhMDU0NmUwNGZkIiwidCI6ImVmNDVhMzIyLTdmMmEtNDBmYi04ZDU0LTVjNTVlY2NjNGIwMyJ9)**
 
 ---
